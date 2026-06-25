@@ -1,3 +1,36 @@
 {
   "item.minecraft.potent_sulfur": "Sulfur Block"
 }
+{
+  "item.minecraft.sulfur": "Brimstone"
+}
+{
+  "item.minecraft.polished_sulfur": "Polished Brimstone"
+}
+{
+  "item.minecraft.sulfur_slab": "Brimstone Slab"
+}
+{
+  "item.minecraft.sulfur_stairs": "Brimstone Stairs"
+}
+{
+  "item.minecraft.sulfur_wall": "Brimstone Wall"
+}
+{
+  "item.minecraft.chiseled_sulfur": "Chiseled Brimstone"
+}
+{
+  "item.minecraft.sulfur_spike": "Pointed Brimstone"
+}
+{
+  "item.minecraft.sulfur_bricks": "Brimstone Bricks"
+}
+{
+  "item.minecraft.sulfur_brick_slab": "Brimstone Brick Slab"
+}
+{
+  "item.minecraft.sulfur_brick_stairs": "Brimstone Brick Stairs"
+}
+{
+  "item.minecraft.sulfur_brick_wall": "Brimstone Brick Wall"
+}
