@@ -34,3 +34,42 @@
 {
   "item.minecraft.sulfur_brick_wall": "Brimstone Brick Wall"
 }
+{
+  "item.minecraft.basalt": "Basalt Column" 
+}
+{
+ "item.minecraft.polished_basalt": "Basalt Pillar"
+}
+{
+  "item.minecraft.smooth_basalt": "Basalt" 
+}
+{
+  "item.minecraft.smooth_basalt": "Basalt" 
+}
+{
+  "item.minecraft.blackstone": "Diabase" 
+}
+{
+  "item.minecraft.blackstone_slab": "Diabase Slab" 
+}
+{
+  "item.minecraft.blackstone_stairs": "Diabase Stairs" 
+}
+{
+  "item.minecraft.blackstone_wall": "Diabase Wall" 
+}
+{
+  "item.minecraft.gilded_blackstone": "Gilded Diabase" 
+}
+{
+  "item.minecraft.polished_blackstone": "Polished Diabase" 
+}
+{
+  "item.minecraft.polished_blackstone_bricks": "Diabase Bricks" 
+}
+{
+  "item.minecraft.polished_chiseled_blackstone": "Chiseled Diabase" 
+}
+{
+  "item.minecraft.polished_blackstone_pressure_plate": "Polished Diabase Pressure Plate" 
+}
