@@ -5,6 +5,24 @@
   "item.minecraft.deepslate": "Slate"
 }
 {
+  "item.minecraft.deepslate_coal_ore": "Slate Coal Ore"
+}
+{
+  "item.minecraft.deepslate_iron_ore": "Slate Iron Ore"
+}
+{
+  "item.minecraft.deepslate_gold_ore": "Slate Gold Ore"
+}
+{
+  "item.minecraft.deepslate_redstone_ore": "Slate Redstone Ore"
+} 
+{
+  "item.minecraft.deepslate_diamond_ore": "Slate Diamond Ore"
+}
+{
+  "item.minecraft.deepslate_emerald_ore": "Slate Emerald Ore"
+}
+{
   "item.minecraft.cobbled_deepslate": "Cobbled Slate"
 }
 {
