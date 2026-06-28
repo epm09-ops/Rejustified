@@ -172,3 +172,18 @@
 {
   "item.minecraft.polished_chiseled_blackstone": "Chiseled Diabase" 
 }
+
+/* compat */ 
+
+{
+  "item.oreganized.deepslate_lead_ore": "Slate Lead Ore"
+}
+{
+  "item.oreganized.deepslate_silver_ore": "Slate Silver Ore"
+}
+{
+  "item.cavernsandchasms.deepslate_silver_ore": "Slate Silver Ore"
+}
+{
+  "item.cavernsandchasms.deepslate_tin_ore": "Slate Tin Ore"
+}
