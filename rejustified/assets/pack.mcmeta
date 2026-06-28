@@ -1,3 +1,60 @@
+
+//deepslate >> slate//
+
+{
+  "item.minecraft.deepslate": "Slate"
+}
+{
+  "item.minecraft.cobbled_deepslate": "Cobbled Slate"
+}
+{
+  "item.minecraft.cobbled_deepslate_slab": "Cobbled Slate Slab"
+}
+{
+  "item.minecraft.cobbled_deepslate_stairs": "Cobbled Slate Stairs"
+}
+{
+  "item.minecraft.cobbled_deepslate_wall": "Cobbled Slate Wall"
+}
+{
+  "item.minecraft.polished_deepslate": "Polished Slate"
+}
+{
+  "item.minecraft.polished_deepslate_slab": "Polished Slate Slab"
+}
+{
+  "item.minecraft.polished_deepslate_stairs": "Polished Slate Stairs"
+}
+{
+  "item.minecraft.polished_deepslate_wall": "Polished Slate Wall"
+}
+{
+  "item.minecraft.chiseled_deepslate": "Chiseled Slate"
+}
+{
+  "item.minecraft.deepslate_bricks": "Slate Bricks"
+}
+{
+  "item.minecraft.cracked_deepslate_bricks": "Cracked Slate Bricks"
+}
+{
+  "item.minecraft.deepslate_brick_slab": "Slate Brick Slab"
+}
+{
+  "item.minecraft.deepslate_brick_stairs": "Slate Brick Stairs"
+}
+{
+  "item.minecraft.deepslate_brick_wall": "Slate Brick Wall"
+}
+{
+  "item.minecraft.deepslate_tiles": "Slate Tiles"
+}
+{
+  "item.minecraft.cracked_deepslate_tiles": "Cracked Slate Tiles"
+}
+
+//sulfur >> brimstone//
+
 {
   "item.minecraft.potent_sulfur": "Sulfur Block"
 }
@@ -34,6 +91,9 @@
 {
   "item.minecraft.sulfur_brick_wall": "Brimstone Brick Wall"
 }
+
+//basalt >> basalt column//
+
 {
   "item.minecraft.basalt": "Basalt Column" 
 }
@@ -49,6 +109,9 @@
 {
   "item.minecraft.blackstone": "Diabase" 
 }
+
+//blackstone >> diabase//
+
 {
   "item.minecraft.blackstone_slab": "Diabase Slab" 
 }
@@ -65,11 +128,32 @@
   "item.minecraft.polished_blackstone": "Polished Diabase" 
 }
 {
-  "item.minecraft.polished_blackstone_bricks": "Diabase Bricks" 
+  "item.minecraft.polished_blackstone_slab": "Polished Diabase Slab" 
 }
 {
-  "item.minecraft.polished_chiseled_blackstone": "Chiseled Diabase" 
+  "item.minecraft.polished_blackstone_stairs": "Polished Diabase Stairs" 
+}
+{
+  "item.minecraft.polished_blackstone_wall": "Polished Diabase Wall" 
+}
+{
+  "item.minecraft.polished_blackstone_button": "Polished Diabase Button" 
 }
 {
   "item.minecraft.polished_blackstone_pressure_plate": "Polished Diabase Pressure Plate" 
+}
+{
+  "item.minecraft.polished_blackstone_bricks": "Diabase Bricks" 
+}
+{
+  "item.minecraft.blackstone_brick_slab": "Diabase Brick Slab" 
+}
+{
+  "item.minecraft.blackstone_brick_stairs": "Diabase Brick Stairs" 
+}
+{
+  "item.minecraft.blackstone_brick_wall": "Diabase Brick Wall" 
+}
+{
+  "item.minecraft.polished_chiseled_blackstone": "Chiseled Diabase" 
 }
