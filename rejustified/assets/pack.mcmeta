@@ -1,5 +1,5 @@
 
-//deepslate >> slate//
+/*deepslate >> slate*/
 
 {
   "item.minecraft.deepslate": "Slate"
@@ -71,7 +71,7 @@
   "item.minecraft.cracked_deepslate_tiles": "Cracked Slate Tiles"
 }
 
-//sulfur >> brimstone//
+/*sulfur >> brimstone*/
 
 {
   "item.minecraft.potent_sulfur": "Sulfur Block"
@@ -110,7 +110,7 @@
   "item.minecraft.sulfur_brick_wall": "Brimstone Brick Wall"
 }
 
-//basalt >> basalt column//
+/*basalt >> basalt column*/
 
 {
   "item.minecraft.basalt": "Basalt Column" 
@@ -121,15 +121,12 @@
 {
   "item.minecraft.smooth_basalt": "Basalt" 
 }
-{
-  "item.minecraft.smooth_basalt": "Basalt" 
-}
+
+/*blackstone >> diabase*/
+
 {
   "item.minecraft.blackstone": "Diabase" 
 }
-
-//blackstone >> diabase//
-
 {
   "item.minecraft.blackstone_slab": "Diabase Slab" 
 }
