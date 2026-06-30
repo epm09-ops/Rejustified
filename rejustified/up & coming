@@ -1,4 +1,12 @@
 {
   "item.minecraft.poplar_log": "Maple Log"
 }
-
+{
+  "item.minecraft.poplar_wood": "Maple Wood"
+}
+{
+  "item.minecraft.stripped_poplar_log": "Stripped Maple Log"
+}
+{
+  "item.minecraft.stripped_poplar_wood": "Stripped Maple Wood"
+}
